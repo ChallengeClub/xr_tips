@@ -1,2 +1,11 @@
 # xr_tips
-XR(VR,AR),Unity,Blender and anything including creative AIs. Tips and know-how memos.
+
+- 技術チャレンジ部VR活動で共有するノウハウとTIPS
+- XR(VR,AR),Unity,Blender, creative AI何でもあり。
+- パブリック注意。共有禁止コンテンツ(モデルデータ等)は禁止。
+- 公開可能スクショはOK。自作スクリプト/Snipet等歓迎。
+- 想定フォルダ   
+  - ワールドクラフト
+  - アバター錬成
+  - 開発共通
+  - 体験共通

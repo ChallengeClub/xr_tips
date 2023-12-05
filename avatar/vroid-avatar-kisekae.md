@@ -3,7 +3,7 @@ VRoid Studioで作成したアバターを着せ替えたい
 
 # 道具立て
 - アバター
-  - VRoid StudioからエクスポートしたVRMファイル
+  - [VRoid Studio](https://vroid.com/studio)からエクスポートしたVRMファイル
 - 服
   - [DOBUITA STYLE](https://booth.pm/ja/items/5203007)
     - 一旦はFor Shinra
@@ -20,7 +20,8 @@ VRoid Studioで作成したアバターを着せ替えたい
 - 基本は[Modular Avatarの手順](https://modular-avatar.nadena.dev/ja/docs/tutorials/clothing)そのまま
   - VRoid Studioでアバターを作る
     - 服はインナーだけの素体にする
-  - アバターのVRMをインポートする
+    - VRM0.x形式でエクスポートする
+  - アバターのVRMファイルをUnityにインポートする
   - VRM Converter for VRChatでprefabをVRChat向けに変換する
   - 服のunitypackageをImportする
   - 服をHierarchyに設置する

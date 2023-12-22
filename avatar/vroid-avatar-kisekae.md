@@ -22,7 +22,8 @@ VRoid Studioで作成したアバターを着せ替えたい
     - 服はインナーだけの素体にする
     - VRM0.x形式でエクスポートする
   - アバターのVRMファイルをUnityにインポートする
-  - VRM Converter for VRChatでprefabをVRChat向けに変換する
+    - VRMをAssetsへドラッグ&ドロップでも、VRMがprefabに変換される模様
+  - VRM Converter for VRChatで、アバターのprefabをVRChat向けに変換する
   - 服のunitypackageをImportする
   - 服をHierarchyに設置する
     - 服の親がアバター、というHierarchyになっていることが、Modular Avatarの前提の模様

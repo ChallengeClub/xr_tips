@@ -22,7 +22,9 @@ VRoid Studioで作成したアバターを着せ替えたい
     - 服はインナーだけの素体にする
     - VRM0.x形式でエクスポートする
   - アバターのVRMファイルをUnityにインポートする
-  - VRM Converter for VRChatでprefabをVRChat向けに変換する
+    - VRMをAssetsへドラッグ&ドロップでも、VRMがprefabに変換される模様
+  - VRM Converter for VRChatで、アバターのprefabをVRChat向けに変換する
+    - アバターのprefabを選択した状態で、ウィンドウメニューのVRM0->Duplicate and Convert for VRChatを選択
   - 服のunitypackageをImportする
   - 服をHierarchyに設置する
     - 服の親がアバター、というHierarchyになっていることが、Modular Avatarの前提の模様
@@ -48,3 +50,8 @@ VRoid Studioで作成したアバターを着せ替えたい
     - 名前にUUIDの付いたボーンを動かすと、服が動く
   - VRMのインポートは、VRM0のメニューからでも、VRMのドラッグドロップでも、同じprefabができる
     - VRMのドラッグドロップだと、Unity内にvrmが残る
+- 2023/12/22
+  - Unity 2022だと
+    - Hierarchyでアバターの下に服を持ってくる際に、Prefabを分解する必要が無い
+      - アイコンに緑にプラスマークが付く
+    - Playしてアバターの手を動かしても、手すら動かない

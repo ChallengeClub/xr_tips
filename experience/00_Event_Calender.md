@@ -8,6 +8,7 @@
 | UniFesta Idea | Resoniteアイテム投稿 | 12/7-21| Resonite(PC) |[YouTube](https://youtu.be/L_ajAS4CWyA?si=a-h-zRAVa3PJlkQd)|
 | バ美肉紅白2023 | 音楽ライブ |12/23(21:00～)| Cluster Youtube | [X](https://x.com/nemchan_nel/status/1731509182476832965) |
 | 第6回ニソコンVR | VR空間二足歩行ロボットコンテスト | 12/23(19-22) | VRC | [connpass](https://nisoconvr.connpass.com/event/303401/)|
+| TAIWAN EXCELLENCE | テーマパーク（ゲーム・イベント） | ～12/25 | VRC(不可)  | [サイト](https://www.taiwanexcellence.org/jp/festival2023/vr/)|
 | VRホビーロボット集会&忘年会 |  | 12/30(21:00～22:30) | VRC | [X](https://x.com/nisoconVR/status/1740362982633476453?s=20)|
 | VRC無言カラオケ | Tizuruさん主催 | 12/30(20:30～23:00) | VRC(Quest) |[X](https://x.com/VRTIZURU/status/1737782466209849532?s=20)|
 | VRC動画祭 | Xに動画投稿 | ～12/31| X | [記事](https://vr-lifemagazine.com/2023vrc-movie-festival/)|
